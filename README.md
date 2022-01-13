@@ -6,3 +6,7 @@
 This is a small open hardware project, whose goal is to offer a solution to build their own Stylophone, or use a PCB Assembly service.
 
 Fell free to open issues, make PR, or any other participation :)
+
+## Todo
+- PCB Keyboard design
+- 3D printed case
