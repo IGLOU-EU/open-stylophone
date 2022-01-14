@@ -10,3 +10,8 @@ Fell free to open issues, make PR, or any other participation :)
 ## Todo
 - PCB Keyboard design
 - 3D printed case
+
+## Thank
+
+- To the [work of Xaver Schrems](https://www.instructables.com/Retro-Stylophone-NE555-Based/), who has been the inspiration for this project.
+- To Redit users for their [reviews and suggestions](https://www.reddit.com/r/electronics/comments/s1uvls/first_stylophone_ne555_based_on_instructables/).
